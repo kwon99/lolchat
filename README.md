@@ -15,7 +15,7 @@
   <h3 align="center">kknock-HD</h3>
 
   <p align="center">
-  pytorch 기반 롤 채팅 AI
+    롤 채팅 AI
   <br />
   </p>
 </div>
