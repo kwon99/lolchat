@@ -12,7 +12,7 @@
     <!--<img src="images/readme_logo.png" alt="Logo" width="400" height="80">-->
   </a>
 
-  <h3 align="center">kknock-HD</h3>
+  <h3 align="center">lolchat</h3>
 
   <p align="center">
     롤 채팅 AI
