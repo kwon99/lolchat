@@ -9,3 +9,6 @@ class Substitute:
     
     # 문장에서 리스트에 일치하는 단어가 있는지 확인하고, 인자의 단어로 치환하기
     # def check_sub(sentense, checklist, subword):
+
+    # 다시 문장을 원래대로 돌려두기
+    # def back_sub(sentense, checklist, subword):
